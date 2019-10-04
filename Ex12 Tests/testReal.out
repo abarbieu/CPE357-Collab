@@ -1,0 +1,5 @@
+Failed test in unitTestA.c at line 27:
+   Found substitution actual, value -2.0001, expected -2.0002 +/-1e-05
+Failed test in unitTestB.c at line 42:
+   Found substitution actual, value -13, expected 13 +/-0.001
+Enter a random seed value: Enter the type to check (b|c|s|u|r|S|q to quit): Enter   actual real value: Enter expected real value: Enter epsilon: Enter the type to check (b|c|s|u|r|S|q to quit): Enter   actual real value: Enter expected real value: Enter epsilon: Enter the type to check (b|c|s|u|r|S|q to quit): Enter   actual real value: Enter expected real value: Enter epsilon: Enter the type to check (b|c|s|u|r|S|q to quit): Enter   actual real value: Enter expected real value: Enter epsilon: Enter the type to check (b|c|s|u|r|S|q to quit): Enter   actual real value: Enter expected real value: Enter epsilon: Enter the type to check (b|c|s|u|r|S|q to quit): Enter   actual real value: Enter expected real value: Enter epsilon: Enter the type to check (b|c|s|u|r|S|q to quit): Enter   actual real value: Enter expected real value: Enter epsilon: Enter the type to check (b|c|s|u|r|S|q to quit): 

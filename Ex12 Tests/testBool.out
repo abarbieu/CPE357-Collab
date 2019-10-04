@@ -1,0 +1,5 @@
+Failed test in unitTestB.c at line 22:
+   Found substitution actual, value false, expected true
+Failed test in unitTestB.c at line 22:
+   Found substitution actual, value true, expected false
+Enter a random seed value: Enter the type to check (b|c|s|u|r|S|q to quit): Enter   actual boolean value (0|!0): Enter expected boolean value (0|!0): Enter the type to check (b|c|s|u|r|S|q to quit): Enter   actual boolean value (0|!0): Enter expected boolean value (0|!0): Enter the type to check (b|c|s|u|r|S|q to quit): Enter   actual boolean value (0|!0): Enter expected boolean value (0|!0): Enter the type to check (b|c|s|u|r|S|q to quit): Enter   actual boolean value (0|!0): Enter expected boolean value (0|!0): Enter the type to check (b|c|s|u|r|S|q to quit): Enter   actual boolean value (0|!0): Enter expected boolean value (0|!0): Enter the type to check (b|c|s|u|r|S|q to quit): Enter   actual boolean value (0|!0): Enter expected boolean value (0|!0): Enter the type to check (b|c|s|u|r|S|q to quit): 

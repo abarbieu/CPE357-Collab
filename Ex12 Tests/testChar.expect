@@ -1,0 +1,5 @@
+Failed test in unitTestB.c at line 27:
+   Found substitution actual, value 'a', expected 'b'
+Failed test in unitTestB.c at line 27:
+   Found substitution actual, value 'z', expected 'a'
+Enter a random seed value: Enter the type to check (b|c|s|u|r|S|q to quit): Enter   actual character: Enter expected character: Enter the type to check (b|c|s|u|r|S|q to quit): Enter   actual character: Enter expected character: Enter the type to check (b|c|s|u|r|S|q to quit): Enter   actual character: Enter expected character: Enter the type to check (b|c|s|u|r|S|q to quit): Enter   actual character: Enter expected character: Enter the type to check (b|c|s|u|r|S|q to quit): 
