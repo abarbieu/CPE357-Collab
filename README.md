@@ -23,7 +23,7 @@ Add these to the end of your .bashrc file just before #end to make running scrip
    
    alias seeTests='~/seeTests.sh'
 ```
-* EXAMPLE
+* EXAMPLE *
 ```
 #
 # This runs a user defined script `.mybashrc', which by default does
