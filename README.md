@@ -4,7 +4,7 @@ Scripts and Tests to be used in CPE357 Fall 2019
 
 ## Aliases:
 
-### Add these to the end of your .bashrc file just before #end to make running scripts easier
+Add these to the end of your .bashrc file just before #end to make running scripts easier
 
 ```
    alias ls='ls -al'
